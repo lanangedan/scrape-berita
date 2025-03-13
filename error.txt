@@ -1,0 +1,310 @@
+
+DevTools listening on ws://127.0.0.1:56136/devtools/browser/c456eebb-e503-4424-86e4-90267a6fb169
+[19012:6548:0312/003355.613:ERROR:gpu_channel_manager.cc(962)] Failed to create GLES3 context, fallback to GLES2.
+[19012:6548:0312/003355.613:ERROR:gpu_channel_manager.cc(973)] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[19012:6548:0312/003355.613:ERROR:gpu_channel_manager.cc(962)] Failed to create GLES3 context, fallback to GLES2.
+[19012:6548:0312/003355.613:ERROR:gpu_channel_manager.cc(973)] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[9472:21384:0312/003356.404:ERROR:video_capture_service_impl.cc(195)] Bind context provider failed.
+ [INFO] [DSH]  chrome.exe
+ [INFO] [DSH]  Creating WndMsg Listener Window
+ [INFO] [DSH]  Get number of capabilities
+ [INFO] [DSH]  Get stream caps: 0
+ [INFO] [DSH]  Get stream caps: 1
+ [INFO] [DSH]  Get stream caps: 2
+ [INFO] [DSH]  Get stream caps: 3
+ [INFO] [DSH]  Get stream caps: 4
+ [INFO] [DSH]  Get stream caps: 5
+ [INFO] [DSH]  Get stream caps: 6
+ [INFO] [DSH]  Get stream caps: 7
+ [INFO] [DSH]  Get stream caps: 8
+ [INFO] [DSH]  Get stream caps: 9
+ [INFO] [DSH]  Get stream caps: 10
+ [INFO] [DSH]  Destroying parent object
+ [INFO] [DSH]  Destroying WndMsg Listener Window
+ [INFO] [DSH]  Destroyed window
+ [INFO] [DSH]  Unregistered window class
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+[17352:18952:0312/003359.050:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Masukkan CSS selector untuk judul berita: [17352:18952:0312/003423.522:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+.WlydOe
+Masukkan CSS selector untuk link berita: .WlydOe
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
+
+Terjadi kesalahan saat mengambil link: Message: no such element: Unable to locate element: {"method":"css selector","selector":".WlydOe"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x0114B5A3+24387]
+        (No symbol) [0x010D5904]
+        (No symbol) [0x00FB0753]
+        (No symbol) [0x00FF8BA9]
+        (No symbol) [0x00FF8EFB]
+        (No symbol) [0x00FEE241]
+        (No symbol) [0x0101D894]
+        (No symbol) [0x00FEE164]
+        (No symbol) [0x0101DAC4]
+        (No symbol) [0x0103F138]
+        (No symbol) [0x0101D646]
+        (No symbol) [0x00FEC59F]
+        (No symbol) [0x00FED8E4]
+        GetHandleVerifier [0x0144D883+3179043]
+        GetHandleVerifier [0x01466CF9+3282585]
+        GetHandleVerifier [0x0146167C+3260444]
+        GetHandleVerifier [0x011E4330+650448]
+        (No symbol) [0x010DED0D]
+        (No symbol) [0x010DBAF8]
+        (No symbol) [0x010DBC99]
+        (No symbol) [0x010CE530]
+        BaseThreadInitThunk [0x76FA5D49+25]
+        RtlInitializeExceptionChain [0x77E2CE3B+107]
+        RtlGetAppContainerNamedObjectPath [0x77E2CDC1+561]
